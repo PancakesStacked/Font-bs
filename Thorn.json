@@ -4,7 +4,7 @@
    "authors": [
      {
        "name": "A7th",
-       "id": "354936587186077707"
+       "id": "3549365871860777078"
      }
    ],
   "spec": 2,
@@ -84,20 +84,20 @@
         "KEYBOARD": [
             "#06000A"
         ]
-},
+}
 "rawColors": {
     "PRIMARY_800": "#06000A",
     "PRIMARY_600": "#06000A"
-  },
+  }
   "background": {
     "blur": 0.3,
     "url": "https://cdn.discordapp.com/attachments/1089788093009240104/1099086378563801221/oGL8aO8K.jpg",
     "alpha": 0.7
     
-    },
+    }
     "fonts": {
         "*": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Salden-Roman.ttf?raw=true",
         "ginto_bold": "https:\/\/github.com\/PancakesStacked\/Font-bs\/blob\/main\/Cyrillic%20goth%20normal.ttf?raw=true"
-    },
+    }
      
 }
